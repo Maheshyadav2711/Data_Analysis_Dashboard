@@ -66,7 +66,7 @@ Final Dashboard – Create an interactive, user-friendly layout for decision-mak
 
 
 
-# dashboard
+# Dashboard
 
 <img width="1852" height="927" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/412b7e9b-86f0-4987-873b-dd591f820135" />
 
