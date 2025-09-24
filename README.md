@@ -42,3 +42,35 @@ Sales & Profit Trends
 Which month had the highest sales?
 
 Which month had the lowest profit?
+
+- Dashboard Intercation   <a href="https://github.com/Maheshyadav2711/Data_Analysis_Dashboard/blob/main/Screenshot%20(457).png">view dashboard</a>
+
+# process 
+Data Collection – Gather raw e-commerce data (orders, sales, profit, customers, regions, categories).
+
+Data Cleaning – Remove duplicates, handle missing values, format dates, standardize columns.
+
+Data Processing – Create calculated fields (YOY growth, profit margin, order count).
+
+Data Modeling – Organize tables (sales, customers, products, regions) and build relationships.
+
+KPI Identification – Define key metrics (Sales, Profit, Orders, Quantity, Profit Margin).
+
+Dashboard Design – Use charts (bar, line, map, pie, waterfall) to visualize KPIs.
+
+Filter & Segmentation – Add filters (Year, Region, Segment) for drill-down analysis.
+
+Insights Generation – Analyze trends, top categories, state performance, YOY growth.
+
+Final Dashboard – Create an interactive, user-friendly layout for decision-making.
+
+
+
+# dashboard
+
+<img width="1852" height="927" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/412b7e9b-86f0-4987-873b-dd591f820135" />
+
+
+
+
+
